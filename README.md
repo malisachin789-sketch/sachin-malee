@@ -25,19 +25,19 @@
 > MySQL · Python · Power BI · 1,00,000 records
 - Analyzed loan default patterns
 - Grade G = 36.4% default rate (key insight)
-- [View Project →](https://github.com/sachin-malee-data/lending-club-loan-analysis)
+- [View Project →](https://github.com/sachin-malee/lending-club-loan-analysis)
 
 ### 🚚 Supply Chain Performance Analysis
 > MySQL · Python · Power BI · 1,80,519 records
 - Identified 54.8% late delivery crisis
 - First Class shipping = 95.3% late (counterintuitive!)
-- [View Project →](https://github.com/sachin-malee-data/supply-chain-analytics)
+- [View Project →](https://github.com/sachin-malee/supply-chain-analytics)
 
 ### 🛒 Olist E-Commerce Analytics
 > MySQL · Python · Power BI · 96,478 orders
 - 97% customers are one-time buyers
 - Editorial-style professional dashboard
-- [View Project →](https://github.com/sachin-malee-data/olist-ecommerce-analytics)
+- [View Project →](https://github.com/sachin-malee/olist-ecommerce-analytics)
 
 ---
 
