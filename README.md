@@ -25,7 +25,7 @@
 > MySQL · Python · Power BI · 1,00,000 records
 - Analyzed loan default patterns
 - Grade G = 36.4% default rate (key insight)
-- [View Project →]([https://github.com/sachin-malee/lending-club-loan-analysis](https://github.com/malisachin789-sketch/lending-club-loan-analysis))
+- [View Project →](https://github.com/malisachin789-sketch/lending-club-loan-analysis)
 
 ### 🚚 Supply Chain Performance Analysis
 > MySQL · Python · Power BI · 1,80,519 records
