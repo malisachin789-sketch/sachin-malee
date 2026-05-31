@@ -53,8 +53,8 @@
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: linkedin.com/in/sachin-malee-data
-- 📧 Email: sachin.malee@email.com
+- 💼 LinkedIn: linkedin.com/in/[sachin-malee-data](https://www.linkedin.com/in/sachin-malee-37936b200/)
+- 📧 Email: malisachin789@gmail.com
 - 📍 Location: Mumbai, India
 
 ---
